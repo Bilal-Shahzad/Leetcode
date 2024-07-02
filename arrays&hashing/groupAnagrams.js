@@ -27,7 +27,7 @@
 
 
 
-// work:
+// brainstorm:
 
 
 // given a list of strings and  want to group all anagrams together
@@ -35,3 +35,18 @@
 // two strings are anagrams of eachother if taking each of them and sort to see if they have the same letters
 
 // take each one of the strings in the input and sort them 
+
+// gather all outputs and return them as the result 
+
+// work
+
+function anagram(strs) {
+    var anagramsCon = []
+
+    // go through each string of the array 
+
+    for (var s of strs) {
+
+        var sortedS = s.split('').sort().join('');
+    }
+}
