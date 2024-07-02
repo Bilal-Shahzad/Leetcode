@@ -28,3 +28,10 @@
 
 
 // work:
+
+
+// given a list of strings and  want to group all anagrams together
+
+// two strings are anagrams of eachother if taking each of them and sort to see if they have the same letters
+
+// take each one of the strings in the input and sort them 
